@@ -1,0 +1,10 @@
+# Ignore the actual secrets
+.env
+
+# Ignore python environment and cache
+__pycache__/
+.venv/
+*.pyc
+
+# Ignore uploaded resumes
+uploads/
